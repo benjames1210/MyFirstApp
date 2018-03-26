@@ -11,5 +11,7 @@
 @interface ViewController : UIViewController
 
 
+-(void)clickMe:(id)sender;
+
 @end
 
